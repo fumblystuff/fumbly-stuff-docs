@@ -3,6 +3,6 @@ title: Home
 sidebar_position: 1
 ---
 
-Welcome to the documentation site for [Fumbly Diddle Software](https://fumblydiddle.com).
+Welcome to the documentation site for [Fumbly Stuff, LLC](https://fumblystuff.com).
 
-This site contains document for all of Fumbly Diddle's software products. It's only one product for now, but we have more applications planned for future deployment.
+Fumbly Stuff produces hardware products for electronics hobbyists. This site contains documentation for how to use all of our products.
