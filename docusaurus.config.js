@@ -109,13 +109,13 @@ const config = {
         ],
       }
     ],
-    // [
-    //   '@docusaurus/plugin-google-gtag',
-    //   {
-    //     trackingID: 'G-LNWBDGJ3YY',
-    //     anonymizeIP: true,
-    //   }
-    // ]
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-2JXHNK7VC2',
+        anonymizeIP: true,
+      }
+    ]
   ],
 };
 
