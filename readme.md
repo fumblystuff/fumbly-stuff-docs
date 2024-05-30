@@ -8,7 +8,7 @@ Note to self, product images go into the `static/images/<product_name>` folder.
 
 ## Tasks
 
-- [ ] Favicon
+- [x] Favicon
 - [ ] Publish via Netlify
 - [ ] Configure `docs` subdomain on Netlify
 - [ ] Google analytics - https://mpolinowski.github.io/docs/Development/Javascript/2022-07-01-docusaurus-introduction/2022-07-01/
