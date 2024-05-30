@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Fumbly Stuff Docs (Need Logo)',
+        title: 'Fumbly Stuff Documentation',
         logo: {
           alt: 'Fumbly Diddle Logo',
           src: 'img/logo.svg',
