@@ -57,14 +57,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Fumbly Stuff Docs',
+        title: 'Fumbly Stuff Docs (Need Logo)',
         logo: {
           alt: 'Fumbly Diddle Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            href: 'https://github.com/fumblystuff/fumbly-diddle-docs',
+            href: 'https://github.com/fumblystuff/fumbly-stuff-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -72,7 +72,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright ${new Date().getFullYear()} Fumbly Diddle Software; Built with Docusaurus.`,
+        copyright: `Copyright ${new Date().getFullYear()} Fumbly Stuff, LLC; Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
@@ -109,13 +109,13 @@ const config = {
         ],
       }
     ],
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-LNWBDGJ3YY',
-        anonymizeIP: true,
-      }
-    ]
+    // [
+    //   '@docusaurus/plugin-google-gtag',
+    //   {
+    //     trackingID: 'G-LNWBDGJ3YY',
+    //     anonymizeIP: true,
+    //   }
+    // ]
   ],
 };
 
